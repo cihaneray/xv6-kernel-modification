@@ -44,12 +44,12 @@ Clone the original xv6 repository (or your modified fork if applicable):
 
 ```bash
 git clone https://github.com/cihaneray/xv6-kernel-modification.git
-cd xv6-public
+cd xv6-kernel-modification/src
 ```
 
 ### 2. Build the Kernel
 
-Navigate to the `xv6-public` directory in your terminal and run:
+Navigate to the `xv6-kernel-modification/src` directory in your terminal and run:
 
 ```bash
 make
